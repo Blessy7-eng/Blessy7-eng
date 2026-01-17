@@ -41,3 +41,9 @@ PulsePoint AI bypasses cloud limitations by using a **Hybrid Local Processing** 
     streamlit run main.py
     ```
 
+App Working video : https://drive.google.com/file/d/1LNqH5f7-TEmuNp5KUZCja4fLVVOCBUNv/view?usp=sharing
+
+reel 1 : https://drive.google.com/file/d/1uqT_qrceuJb6LR6oUxgmzl8C_tCNkBUq/view?usp=sharing
+reel 2 : https://drive.google.com/file/d/1uqT_qrceuJb6LR6oUxgmzl8C_tCNkBUq/view?usp=sharing
+reel 3 : https://drive.google.com/file/d/1iSHfnAJDrtbPzFyoOV0fHLwjRvFyCOAg/view?usp=sharing
+reel 4 : https://drive.google.com/file/d/1c4ZENq3olUbAqoguqxJ9UBgYLoZnNDgx/view?usp=sharing
