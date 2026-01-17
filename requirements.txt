@@ -1,0 +1,6 @@
+streamlit
+moviepy
+openai-whisper
+librosa
+numpy
+python-dotenv
