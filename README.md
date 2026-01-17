@@ -41,10 +41,3 @@ PulsePoint AI bypasses cloud limitations by using a **Hybrid Local Processing** 
     streamlit run main.py
     ```
 
-## 🧠 Why It Wins
-* **Resilience**: No API keys, no quotas, and no internet required for processing.
-* **Speed**: By using the Whisper "tiny" model, we generate reels in seconds, not minutes.
-* **User Focus**: Transforms "boring" lectures into "viral" nuggets with a single click.
-
----
-**Developed for ByteSize Sage Hackathon 2026**
